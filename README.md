@@ -7,7 +7,8 @@
 ![Programmers](https://raw.githubusercontent.com/Churnobyl/PROGRAMMERS-BADGE/master/static/result.svg)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Churnobyl&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Churnobyl&layout=compact)
 
 ### Wakatime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Churnobyl)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Churnobyl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
